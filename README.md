@@ -1,1 +1,8 @@
-# iesa2016-a3-mobile
+# Cours Cordova
+
+## Commandes Terminal
+
+* Changer de répertoire : `cd`
+* Chemin courant : pwd`
+
+## Commandes git
